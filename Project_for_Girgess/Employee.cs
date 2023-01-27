@@ -189,7 +189,7 @@ namespace Project_DB_pola
         {
             Login log = new Login();
             log.Show();
-            this.Hide();
+            this.Hide(); gcvhv
         }
     }
 }
